@@ -1,0 +1,2 @@
+window.onload=function(){var e=document.getElementsByClassName("submit")[0];$(".submit").on("click",t);var n=document.createElement("div");function t(){alert(3)}n.innerHTML="3",document.body.appendChild(n),e.addEventListener("click",t)};
+//# sourceMappingURL=about.js.map
