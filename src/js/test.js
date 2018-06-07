@@ -9,3 +9,7 @@ console.log('aaa');
 var a = 1;
 console.log(a);
 // alert(a);
+var obj = {
+	name: '{% admin %}'
+};
+console.log(obj.name);
